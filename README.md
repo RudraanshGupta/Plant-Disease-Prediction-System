@@ -10,4 +10,4 @@ The Plant Disease Prediction System is a machine learning-based solution designe
 - Designed for easy extensibility and deployment.
 
 ## Requirements
-To set up and run this project, the following dependencies are required:
+To set up and run this project, the following dependencies are required-
