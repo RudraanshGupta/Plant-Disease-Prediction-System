@@ -60,6 +60,14 @@ The Plant Disease Prediction System is a machine learning-based solution designe
 ## **Setup Instructions**
 
 ### 1️⃣ **Clone the Repository**
-```bash
+
 git clone https://github.com/RudraanshGupta/Plant-Disease-Prediction-System.git
 cd Plant-Disease-Prediction-System
+
+### 2️⃣ **Install Dependencies**
+
+pip install -r requirements.txt
+
+### 3️⃣ **Run the Application**
+
+streamlit run Test_plant_diseases.ipynb
