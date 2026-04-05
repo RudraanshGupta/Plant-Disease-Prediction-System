@@ -1,4 +1,4 @@
-# Plant Disease Prediction System 🌱
+# Plant Disease Prediction System 
 
 ### **Project Overview**
 The Plant Disease Prediction System is a machine learning-based solution designed to predict diseases in plants using image data and advanced deep learning techniques. This project aims to assist farmers and agricultural professionals in diagnosing plant diseases quickly and accurately, enabling timely treatment and prevention.
@@ -7,19 +7,19 @@ The Plant Disease Prediction System is a machine learning-based solution designe
 
 ## **Features**
 
-### 🌟 **Advanced Machine Learning**
+###  **Advanced Machine Learning**
 - **Convolutional Neural Networks (CNNs)** for image classification.
 - Pre-trained deep learning models like **ResNet**, **VGG**, or custom-built models.
 
-### 🎨 **Interactive Web Interface**
+###  **Interactive Web Interface**
 - **Streamlit** integration for user-friendly, interactive predictions.
 - Upload images and get real-time insights on plant health.
 
-### 📊 **Data Visualization**
+###  **Data Visualization**
 - Visualize results using **matplotlib** and **seaborn**.
 - Model performance metrics such as accuracy, precision, recall, and loss curves.
 
-### ⚙️ **Extensibility**
+###  **Extensibility**
 - Modular code design for easy enhancement and deployment.
 - Support for additional datasets and custom models.
 
@@ -59,7 +59,7 @@ The Plant Disease Prediction System is a machine learning-based solution designe
 
 ## **Setup Instructions**
 
-### 1️⃣ **Clone the Repository**
+###  **Clone the Repository**
 
 git clone https://github.com/RudraanshGupta/Plant-Disease-Prediction-System.git
 cd Plant-Disease-Prediction-System
